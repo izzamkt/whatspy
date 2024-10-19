@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Oct 2024 20:17:33 at https://appspyacesso.online/new2 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://appspyacesso.online/new2 -O1 "C:\Meus Sites\MeuSiteClonado" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:17:35	Warning: 	Moved Permanently for https://appspyacesso.online/robots.txt
+20:17:35	Warning: 	Redirected link is identical because of 'URL Hack' option: https://appspyacesso.online/robots.txt and https://www.appspyacesso.online/robots.txt
+20:17:35	Warning: 	Warning moved treated for https://appspyacesso.online/robots.txt (real one is https://www.appspyacesso.online/robots.txt)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/arquivos/favicon.ico (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/politica-de-privacidade/index.html (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/termos/index.html (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/js/jquery-3.5.1.min.js (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/js/jquery.inputmask.min.js (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/js/popper.min.js (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/js/bootstrap.min.js (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/code.jquery.com/jquery-latest.min.js (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/js/jquery.mask.min.js (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/new2/js/scripts.js (from https://appspyacesso.online/new2/)
+20:17:43	Error: 	"Not Found" (404) at link https://appspyacesso.online/cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/jquery.validate.min.js (from https://appspyacesso.online/new2/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 39 links scanned, 27 files written (693212 bytes overall) [697333 bytes received at 69733 bytes/sec], 54867 bytes transferred using HTTP compression in 12 files, ratio 32%, 13.3 requests per connection
+(11 errors, 3 warnings, 0 messages)
